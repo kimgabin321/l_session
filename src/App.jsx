@@ -7,7 +7,7 @@ function App() {
     <>
       <GlobalStyle />
       <Nav />  
-      <Main></Main>
+      <Main></Main> 
       <Footer />
     </>
   );
