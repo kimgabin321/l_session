@@ -6,7 +6,7 @@ function App() {
   return (
     <>
       <GlobalStyle />
-      <Nav /> 
+      <Nav />  
       <Main></Main>
       <Footer />
     </>
